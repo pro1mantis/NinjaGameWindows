@@ -1,0 +1,5 @@
+{
+ "name": "Blue Block the Alien",
+ "main": "project.html",
+ "icons": { "16": "icon.png"}
+}
