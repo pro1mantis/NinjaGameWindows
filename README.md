@@ -1,3 +1,7 @@
 # NinjaGameWindows
 
-First extract file lib.path01.rar and locales.zip and nw.rar
+First extract file and locales.zip and nw.path01.rar.
+
+Than click on NinjaGame.exe and ENJOY!!!!!!!!!
+
+:-)
